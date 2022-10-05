@@ -1,0 +1,77 @@
+{
+	"15087520": {
+		"XPBoostDuration": 60,
+		"XPBoostMultiplier": 1.5
+	},
+	"15087522": {
+		"XPBoostDuration": 120,
+		"XPBoostMultiplier": 1.5
+	},
+	"15087530": {
+		"XPBoostDuration": 1440,
+		"XPBoostMultiplier": 1.5
+	},
+	"15299024": {
+		"TeamID": "AD",
+		"TeamUnlockDuration": 120,
+		"Description": "Be a part of the Administrative Department for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087874": {
+		"TeamID": "BCU",
+		"SubteamID": "BCD",
+		"TeamUnlockDuration": 120,
+		"Description": "Be the Biohazard Control Director for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087909": {
+		"TeamID": "AD",
+		"SubteamID": "CM",
+		"TeamUnlockDuration": 120,
+		"Description": "Be a Chairman for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15297842": {
+		"TeamID": "CIT",
+		"TeamUnlockDuration": 120,
+		"Description": "Be a part of the Crisis Intervention Team for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087800": {
+		"TeamID": "BCU",
+		"SubteamID": "EB",
+		"TeamUnlockDuration": 120,
+		"Description": "Be a part of the Experimentation Branch for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087679": {
+		"TeamID": "BR",
+		"SubteamID": "DH",
+		"TeamUnlockDuration": 120,
+		"Description": "Be a part of the Daredevil Handler Squad for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087654": {
+		"TeamID": "BR",
+		"SubteamID": "EBR",
+		"TeamUnlockDuration": 120,
+		"Description": "Be an Expert Biological Researcher for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087915": {
+		"TeamID": "FO",
+		"TeamUnlockDuration": 120,
+		"Description": "Be the Facility Oversight for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087637": {
+		"TeamID": "RS",
+		"UnlockAllSubteams": true,
+		"TeamUnlockDuration": 120,
+		"Description": "Be the Housing Overwatch or Godfather for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087957": {
+		"TeamID": "TOC",
+		"SubteamID": "OP",
+		"TeamUnlockDuration": 120,
+		"Description": "Be the Osiris Prophet for 2 hours! (Buy the Pack for Unlimited Access!)"
+	},
+	"15087934": {
+		"TeamID": "TOC",
+		"SubteamID": "OST",
+		"TeamUnlockDuration": 120,
+		"Description": "Be a part of the Osiris Strike Team for 2 hours! (Buy the Pack for Unlimited Access!)"
+	}
+}
