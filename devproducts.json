@@ -1,15 +1,22 @@
 {
 	"1298305247": {
+		"Category": "XPBoosts",
 		"XPBoostDuration": 60,
 		"XPBoostMultiplier": 1.5
 	},
 	"1298305283": {
+		"Category": "XPBoosts",
 		"XPBoostDuration": 120,
 		"XPBoostMultiplier": 1.5
 	},
 	"1298305439": {
+		"Category": "XPBoosts",
 		"XPBoostDuration": 1440,
 		"XPBoostMultiplier": 1.5
+	},
+	"1323734583": {
+		"Category": "Blanks",
+		"Blanks": 10
 	},
 	"1301541136": {
 		"TeamID": "AD",
