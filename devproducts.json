@@ -1,22 +1,42 @@
 {
+	"1329316744": {
+		"Category": "Cash",
+		"NCD": 100
+	},
+	"1329316646": {
+		"Category": "Cash",
+		"NCD": 500
+	},
+	"1329316564": {
+		"Category": "Cash",
+		"NCD": 1000
+	},
+	"1329316430": {
+		"Category": "Cash",
+		"NCD": 2500
+	},
+	"1329316275": {
+		"Category": "Cash",
+		"NCD": 10000
+	},
+	"1329315572": {
+		"Category": "Cash",
+		"NCD": 100000
+	},
 	"1298305247": {
 		"Category": "XPBoosts",
 		"XPBoostDuration": 60,
-		"XPBoostMultiplier": 1.5
+		"XPBoostMultiplier": 2
 	},
 	"1298305283": {
 		"Category": "XPBoosts",
 		"XPBoostDuration": 120,
-		"XPBoostMultiplier": 1.5
+		"XPBoostMultiplier": 2
 	},
 	"1298305439": {
 		"Category": "XPBoosts",
 		"XPBoostDuration": 1440,
-		"XPBoostMultiplier": 1.5
-	},
-	"1323734583": {
-		"Category": "Blanks",
-		"Blanks": 10
+		"XPBoostMultiplier": 2
 	},
 	"1301541136": {
 		"TeamID": "AD",
