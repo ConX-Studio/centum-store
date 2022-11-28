@@ -1,27 +1,17 @@
-{
-	"1329316744": {
-		"Category": "Cash",
-		"NCD": 100
-	},
-	"1329316646": {
-		"Category": "Cash",
-		"NCD": 500
-	},
 	"1329316564": {
-		"Category": "Cash",
-		"NCD": 1000
+		"Category": "CashBoosts",
+		"XPBoostDuration": 60,
+		"XPBoostMultiplier": 2
 	},
 	"1329316430": {
-		"Category": "Cash",
-		"NCD": 2500
+		"Category": "CashBoosts",
+		"XPBoostDuration": 120,
+		"XPBoostMultiplier": 2
 	},
 	"1329316275": {
-		"Category": "Cash",
-		"NCD": 10000
-	},
-	"1329315572": {
-		"Category": "Cash",
-		"NCD": 100000
+		"Category": "CashBoosts",
+		"XPBoostDuration": 1440,
+		"XPBoostMultiplier": 2
 	},
 	"1298305247": {
 		"Category": "XPBoosts",
