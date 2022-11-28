@@ -1,17 +1,17 @@
 	"1329316564": {
 		"Category": "CashBoosts",
-		"XPBoostDuration": 60,
-		"XPBoostMultiplier": 2
+		"CashBoostDuration": 60,
+		"CashBoostMultiplier": 2
 	},
 	"1329316430": {
 		"Category": "CashBoosts",
-		"XPBoostDuration": 120,
-		"XPBoostMultiplier": 2
+		"CashBoostDuration": 120,
+		"CashBoostMultiplier": 2
 	},
 	"1329316275": {
 		"Category": "CashBoosts",
-		"XPBoostDuration": 1440,
-		"XPBoostMultiplier": 2
+		"CashBoostDuration": 1440,
+		"CashBoostMultiplier": 2
 	},
 	"1298305247": {
 		"Category": "XPBoosts",
