@@ -80,5 +80,50 @@
 		"TeamID": "TOC",
 		"SubteamID": "OST",
 		"Description": "Be a part of the Osiris Strike Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298309475": {
+		"TeamID": "CS",
+		"SubteamID": "SCS",
+		"Description": "Be a part of the Seasoned Security Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298309588": {
+		"TeamID": "CS",
+		"SubteamID": "STU",
+		"Description": "Be a part of the Special Tactics Unit! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298309739": {
+		"TeamID": "CS",
+		"SubteamID": "SBC",
+		"Description": "Be a part of the Security Branch Commander! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298309078": {
+		"TeamID": "BR",
+		"SubteamID": "DOB",
+		"Description": "Be a part of the Director of Biology! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298309882": {
+		"TeamID": "BCU",
+		"SubteamID": "VH",
+		"Description": "Be a part of the Veteran Handler Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298310195": {
+		"TeamID": "CIT",
+		"SubteamID": "SIT",
+		"Description": "Be a part of the Seasoned Intervention Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298310304": {
+		"TeamID": "CIT",
+		"SubteamID": "RCS",
+		"Description": "Be a part of the Rapid Control Squad! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298310388": {
+		"TeamID": "CIT",
+		"SubteamID": "TO",
+		"Description": "Be a part of the CIT Oversight! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+	},
+	"1298310508": {
+		"TeamID": "AD",
+		"SubteamID": "HR",
+		"Description": "Be a part of the Human Resources Department! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
 	}
 }
