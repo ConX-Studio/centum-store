@@ -1,217 +1,196 @@
 {
-	"1342684657": {
-		"Bypass": true,
-		"Product": "M249 SAW",
-		"Vendor": "RS",
-		"Index": 1
-	},
-	"1342684756": {
-		"Bypass": true,
-		"Product": "RPK",
-		"Vendor": "RS",
-		"Index": 2
-	},
-	"1342684803": {
-		"Bypass": true,
-		"Product": "M4 Carbine",
-		"Vendor": "RS",
-		"Index": 3
-	},
-	"1342684844": {
-		"Bypass": true,
-		"Product": "AS VAL",
-		"Vendor": "RS",
-		"Index": 4
-	},
-	"1342684880": {
-		"Bypass": true,
-		"Product": "AK74U",
-		"Vendor": "RS",
-		"Index": 5
-	},
-	"1342684922": {
-		"Bypass": true,
-		"Product": "Desert Eagle",
-		"Vendor": "RS",
-		"Index": 6
-	},
-	"1342684989": {
-		"Bypass": true,
-		"Product": "Tec-9",
-		"Vendor": "RS",
-		"Index": 7
-	},
-	"1342685059": {
-		"Bypass": true,
-		"Product": "Fake ID (AC-3)",
-		"Vendor": "RS",
-		"Index":1	
-	},
-	"1329316564": {
-		"Category": "CashBoosts",
-		"CashBoostDuration": 60,
-		"CashBoostMultiplier": 2
-	},
-	"1329316430": {
-		"Category": "CashBoosts",
-		"CashBoostDuration": 120,
-		"CashBoostMultiplier": 2
-	},
-	"1329316275": {
-		"Category": "CashBoosts",
-		"CashBoostDuration": 1440,
-		"CashBoostMultiplier": 2
-	},
-	"1298305247": {
-		"Category": "XPBoosts",
-		"XPBoostDuration": 60,
-		"XPBoostMultiplier": 2
-	},
-	"1298305283": {
-		"Category": "XPBoosts",
-		"XPBoostDuration": 120,
-		"XPBoostMultiplier": 2
-	},
-	"1298305439": {
-		"Category": "XPBoosts",
-		"XPBoostDuration": 1440,
-		"XPBoostMultiplier": 2
-	},
-	"1301541136": {
-		"TeamID": "AD",
-		"Description": "Be a part of the Administrative Department! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310110": {
-		"TeamID": "BCU",
-		"SubteamID": "BCD",
-		"Description": "Be the Biohazard Control Director! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1265772551": {
-		"TeamID": "BR",
-		"SubteamID": "BCU",
-		"Description": "Be a Chairman! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	
-	"1298310652": {
-		"TeamID": "AD",
-		"SubteamID": "CM",
-		"Description": "Be a Chairman! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1301522637": {
-		"TeamID": "CIT",
-		"Description": "Be a part of the Crisis Intervention Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1301542724": {
-		"TeamID": "TOC",
-		"Description": "yes"
-	},
-	"1298306749": {
-		"TeamID": "RS",
-		"SubteamID": "SRS",
-		"Description": "yes"
-	},
-	"1298307759": {
-		"TeamID": "BCU",
-		"SubteamID": "EB",
-		"Description": "Be a part of the Experimentation Branch! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310005": {
-		"TeamID": "BR",
-		"SubteamID": "DH",
-		"Description": "Be a part of the Daredevil Handler Squad! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298307263": {
-		"TeamID": "BR",
-		"SubteamID": "EBR",
-		"Description": "Be an Expert Biological Researcher! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298309739": {
-		"TeamID": "CS",
-		"SubteamID": "SBC",
-		"Description": "yes"
-	},
-	"1298310744": {
-		"TeamID": "FO",
-		"Description": "Be the Facility Oversight! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298307023": {
-		"TeamID": "RS",
-		"SubteamID": "GF",
-		"Description": "Be the Godfather! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298311187": {
-		"TeamID": "TOC",
-		"SubteamID": "OP",
-		"Description": "Be the Osiris Prophet! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310992": {
-		"TeamID": "TOC",
-		"SubteamID": "OST",
-		"Description": "Be a part of the Osiris Strike Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310883": {
-		"TeamID": "TOC",
-		"SubteamID": "COT",
-		"Description": "Be a part of the seasoned Osiris Strike Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298307759": {
-		"TeamID": "BR",
-		"SubteamID": "EB",
-		"Description": "yes"
-	},
-	"1298309475": {
-		"TeamID": "CS",
-		"SubteamID": "SCS",
-		"Description": "Be a part of the Seasoned Security Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298309588": {
-		"TeamID": "CS",
-		"SubteamID": "STU",
-		"Description": "Be a part of the Special Tactics Unit! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298309739": {
-		"TeamID": "CS",
-		"SubteamID": "SBC",
-		"Description": "Be a part of the Security Branch Commander! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298309078": {
-		"TeamID": "BR",
-		"SubteamID": "DOB",
-		"Description": "Be a part of the Director of Biology! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298307263": {
-		"TeamID": "BR",
-		"SubteamID": "EBR",
-		"Description": "Be a part of the Director of Biology! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	
-	"1298309882": {
-		"TeamID": "BCU",
-		"SubteamID": "VH",
-		"Description": "Be a part of the Veteran Handler Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310195": {
-		"TeamID": "CIT",
-		"SubteamID": "SIT",
-		"Description": "Be a part of the Seasoned Intervention Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310304": {
-		"TeamID": "CIT",
-		"SubteamID": "RCS",
-		"Description": "Be a part of the Rapid Control Squad! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310388": {
-		"TeamID": "CIT",
-		"SubteamID": "TO",
-		"Description": "Be a part of the CIT Oversight! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
-	"1298310744": {
-		"TeamID": "FO",
-		"Description": "yes"
-	},
-	"1298310508": {
-		"TeamID": "AD",
-		"SubteamID": "HR",
-		"Description": "Be a part of the Human Resources Department! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
-	},
+    "1342684657": {
+        "Bypass": true,
+        "Product": "M249 SAW",
+        "Vendor": "RS",
+        "Index": 1
+    },
+    "1342684756": {
+        "Bypass": true,
+        "Product": "RPK",
+        "Vendor": "RS",
+        "Index": 2
+    },
+    "1342684803": {
+        "Bypass": true,
+        "Product": "M4 Carbine",
+        "Vendor": "RS",
+        "Index": 3
+    },
+    "1342684844": {
+        "Bypass": true,
+        "Product": "AS VAL",
+        "Vendor": "RS",
+        "Index": 4
+    },
+    "1342684880": {
+        "Bypass": true,
+        "Product": "AK74U",
+        "Vendor": "RS",
+        "Index": 5
+    },
+    "1342684922": {
+        "Bypass": true,
+        "Product": "Desert Eagle",
+        "Vendor": "RS",
+        "Index": 6
+    },
+    "1342684989": {
+        "Bypass": true,
+        "Product": "Tec-9",
+        "Vendor": "RS",
+        "Index": 7
+    },
+    "1342685059": {
+        "Bypass": true,
+        "Product": "Fake ID (AC-3)",
+        "Vendor": "RS",
+        "Index": 1
+    },
+    "1329316564": {
+        "Category": "CashBoosts",
+        "CashBoostDuration": 60,
+        "CashBoostMultiplier": 2
+    },
+    "1329316430": {
+        "Category": "CashBoosts",
+        "CashBoostDuration": 120,
+        "CashBoostMultiplier": 2
+    },
+    "1329316275": {
+        "Category": "CashBoosts",
+        "CashBoostDuration": 1440,
+        "CashBoostMultiplier": 2
+    },
+    "1298305247": {
+        "Category": "XPBoosts",
+        "XPBoostDuration": 60,
+        "XPBoostMultiplier": 2
+    },
+    "1298305283": {
+        "Category": "XPBoosts",
+        "XPBoostDuration": 120,
+        "XPBoostMultiplier": 2
+    },
+    "1298305439": {
+        "Category": "XPBoosts",
+        "XPBoostDuration": 1440,
+        "XPBoostMultiplier": 2
+    },
+    "1301541136": {
+        "TeamID": "AD",
+        "Description": "Be a part of the Administrative Department! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310110": {
+        "TeamID": "BCU",
+        "SubteamID": "BCD",
+        "Description": "Be the Biohazard Control Director! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1265772551": {
+        "TeamID": "BR",
+        "SubteamID": "BCU",
+        "Description": "Be a Chairman! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310652": {
+        "TeamID": "AD",
+        "SubteamID": "CM",
+        "Description": "Be a Chairman! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1301522637": {
+        "TeamID": "CIT",
+        "Description": "Be a part of the Crisis Intervention Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1301542724": {
+        "TeamID": "TOC",
+        "Description": "yes"
+    },
+    "1298306749": {
+        "TeamID": "RS",
+        "SubteamID": "SRS",
+        "Description": "yes"
+    },
+    "1298307759": {
+        "TeamID": "BCU",
+        "SubteamID": "EB",
+        "Description": "Be a part of the Experimentation Branch! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310005": {
+        "TeamID": "BR",
+        "SubteamID": "DH",
+        "Description": "Be a part of the Daredevil Handler Squad! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310744": {
+        "TeamID": "FO",
+        "Description": "Be the Facility Oversight! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298307023": {
+        "TeamID": "RS",
+        "SubteamID": "GF",
+        "Description": "Be the Godfather! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298311187": {
+        "TeamID": "TOC",
+        "SubteamID": "OP",
+        "Description": "Be the Osiris Prophet! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310992": {
+        "TeamID": "TOC",
+        "SubteamID": "OST",
+        "Description": "Be a part of the Osiris Strike Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310883": {
+        "TeamID": "TOC",
+        "SubteamID": "COT",
+        "Description": "Be a part of the seasoned Osiris Strike Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298309475": {
+        "TeamID": "CS",
+        "SubteamID": "SCS",
+        "Description": "Be a part of the Seasoned Security Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298309588": {
+        "TeamID": "CS",
+        "SubteamID": "STU",
+        "Description": "Be a part of the Special Tactics Unit! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298309739": {
+        "TeamID": "CS",
+        "SubteamID": "SBC",
+        "Description": "Be a part of the Security Branch Commander! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298309078": {
+        "TeamID": "BR",
+        "SubteamID": "DOB",
+        "Description": "Be a part of the Director of Biology! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298307263": {
+        "TeamID": "BR",
+        "SubteamID": "EBR",
+        "Description": "Be a part of the Director of Biology! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298309882": {
+        "TeamID": "BCU",
+        "SubteamID": "VH",
+        "Description": "Be a part of the Veteran Handler Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310195": {
+        "TeamID": "CIT",
+        "SubteamID": "SIT",
+        "Description": "Be a part of the Seasoned Intervention Team! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310304": {
+        "TeamID": "CIT",
+        "SubteamID": "RCS",
+        "Description": "Be a part of the Rapid Control Squad! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310388": {
+        "TeamID": "CIT",
+        "SubteamID": "TO",
+        "Description": "Be a part of the CIT Oversight! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    },
+    "1298310508": {
+        "TeamID": "AD",
+        "SubteamID": "HR",
+        "Description": "Be a part of the Human Resources Department! You will lose access when you leave. (Buy the Pack for Unlimited Access!)"
+    }
 }
