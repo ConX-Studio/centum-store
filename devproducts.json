@@ -1,39 +1,48 @@
 {
 	"1342684657": {
 		"Bypass": true,
-		"Product": "M249 SAW"
+		"Product": "M249 SAW",
+		"Vendor": "RS"
 	},
 	"1342684756": {
 		"Bypass": true,
-		"Product": "RPK"
+		"Product": "RPK",
+		"Vendor": "RS"
 	},
 	"1342684803": {
 		"Bypass": true,
-		"Product": "M4 Carbine"
+		"Product": "M4 Carbine",
+		"Vendor": "RS"
 	},
 	"1342684844": {
 		"Bypass": true,
-		"Product": "AS VAL"
+		"Product": "AS VAL",
+		"Vendor": "RS"
 	},
 	"1342684880": {
 		"Bypass": true,
-		"Product": "AK74U"	
+		"Product": "AK74U",
+		"Vendor": "RS"
 	},
 	"1342684922": {
 		"Bypass": true,
-		"Product": "Desert Eagle"	
+		"Product": "Desert Eagle",
+		"Vendor": "RS"
 	},
 	"1342684989": {
 		"Bypass": true,
-		"Product": "Tec-9"	
+		"Product": "Tec-9",
+		"Vendor": "RS"	
 	},
 	"1342684989": {
 		"Bypass": true,
-		"Product": "Tec-9"	
+		"Product": "Tec-9",
+		"Vendor": "RS"	
 	},
 	"1342685059": {
 		"Bypass": true,
-		"Product": "Fake ID (AC-3)"	
+		"Product": "Fake ID (AC-3)",
+		"Vendor": "RS"	
 	},
 	
 	
