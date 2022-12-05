@@ -107,6 +107,11 @@
 		"TeamID": "TOC",
 		"Description": "yes"
 	},
+	"1298306749": {
+		"TeamID": "RS",
+		"SubteamID": "SRS",
+		"Description": "yes"
+	},
 	"1298307759": {
 		"TeamID": "BCU",
 		"SubteamID": "EB",
