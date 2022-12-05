@@ -1,4 +1,42 @@
 {
+	"1342684657": {
+		"Bypass": true,
+		"Product": "M249 SAW"
+	},
+	"1342684756": {
+		"Bypass": true,
+		"Product": "RPK"
+	},
+	"1342684803": {
+		"Bypass": true,
+		"Product": "M4 Carbine"
+	},
+	"1342684844": {
+		"Bypass": true,
+		"Product": "AS VAL"
+	},
+	"1342684880": {
+		"Bypass": true,
+		"Product": "AK74U"	
+	},
+	"1342684922": {
+		"Bypass": true,
+		"Product": "Desert Eagle"	
+	},
+	"1342684989": {
+		"Bypass": true,
+		"Product": "Tec-9"	
+	},
+	"1342684989": {
+		"Bypass": true,
+		"Product": "Tec-9"	
+	},
+	"1342685059": {
+		"Bypass": true,
+		"Product": "Fake ID (AC-3)"	
+	},
+	
+	
 	"1329316564": {
 		"Category": "CashBoosts",
 		"CashBoostDuration": 60,
