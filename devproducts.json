@@ -1,80 +1,88 @@
 {
-    "1342684657": {
-        "Bypass": true,
-        "Product": "M249 SAW",
-        "Vendor": "RS",
-        "Index": 1
-    },
-    "1342684756": {
-        "Bypass": true,
-        "Product": "RPK",
-        "Vendor": "RS",
-        "Index": 2
-    },
-    "1342684803": {
-        "Bypass": true,
-        "Product": "M4 Carbine",
-        "Vendor": "RS",
-        "Index": 3
-    },
-    "1342684844": {
-        "Bypass": true,
-        "Product": "AS VAL",
-        "Vendor": "RS",
-        "Index": 4
-    },
-    "1342684880": {
-        "Bypass": true,
-        "Product": "AK74U",
-        "Vendor": "RS",
-        "Index": 5
-    },
-    "1342684922": {
-        "Bypass": true,
-        "Product": "Desert Eagle",
-        "Vendor": "RS",
-        "Index": 6
-    },
-    "1342684989": {
-        "Bypass": true,
-        "Product": "Tec-9",
-        "Vendor": "RS",
-        "Index": 7
-    },
-    "1342685059": {
-        "Bypass": true,
-        "Product": "Fake ID (AC-3)",
-        "Vendor": "RS",
-        "Index": 1
-    },
-    "1329316564": {
-        "Category": "CashBoosts",
-        "CashBoostDuration": 60,
-        "CashBoostMultiplier": 2
-    },
-    "1329316430": {
-        "Category": "CashBoosts",
-        "CashBoostDuration": 120,
-        "CashBoostMultiplier": 2
-    },
-    "1329316275": {
-        "Category": "CashBoosts",
-        "CashBoostDuration": 1440,
-        "CashBoostMultiplier": 2
-    },
-    "1298305247": {
-        "Category": "XPBoosts",
-        "XPBoostDuration": 60,
-        "XPBoostMultiplier": 2
-    },
-    "1298305283": {
-        "Category": "XPBoosts",
-        "XPBoostDuration": 120,
-        "XPBoostMultiplier": 2
-    },
-    "1298305439": {
-        "Category": "XPBoosts",
-        "XPBoostDuration": 1440,
-        "XPBoostMultiplier": 2
-    }
+	"1342684657": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "M249 SAW",
+		"Vendor": "RS",
+		"Index": 1
+	},
+	"1342684756": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "RPK",
+		"Vendor": "RS",
+		"Index": 2
+	},
+	"1342684803": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "M4 Carbine",
+		"Vendor": "RS",
+		"Index": 3
+	},
+	"1342684844": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "AS VAL",
+		"Vendor": "RS",
+		"Index": 4
+	},
+	"1342684880": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "AK74U",
+		"Vendor": "RS",
+		"Index": 5
+	},
+	"1342684922": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "Desert Eagle",
+		"Vendor": "RS",
+		"Index": 6
+	},
+	"1342684989": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "Tec-9",
+		"Vendor": "RS",
+		"Index": 7
+	},
+	"1342685059": {
+		"Hidden": true,
+		"Bypass": true,
+		"Product": "Fake ID (AC-3)",
+		"Vendor": "RS",
+		"Index": 1
+	},
+	"1329316564": {
+		"Category": "CashBoosts",
+		"CashBoostDuration": 60,
+		"CashBoostMultiplier": 2
+	},
+	"1329316430": {
+		"Category": "CashBoosts",
+		"CashBoostDuration": 120,
+		"CashBoostMultiplier": 2
+	},
+	"1329316275": {
+		"Category": "CashBoosts",
+		"CashBoostDuration": 1440,
+		"CashBoostMultiplier": 2
+	},
+	"1298305247": {
+		"Category": "XPBoosts",
+		"XPBoostDuration": 60,
+		"XPBoostMultiplier": 2
+	},
+	"1298305283": {
+		"Category": "XPBoosts",
+		"XPBoostDuration": 120,
+		"XPBoostMultiplier": 2
+	},
+	"1298305439": {
+		"Category": "XPBoosts",
+		"XPBoostDuration": 1440,
+		"XPBoostMultiplier": 2
+	}
 }
