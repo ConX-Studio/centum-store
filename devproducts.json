@@ -28,5 +28,11 @@
 		"Category": "XPBoosts",
 		"XPBoostDuration": 1440,
 		"XPBoostMultiplier": 2
+	},
+	"1511196250": {
+		"RunFunction": "startRiotRPK"
+	},
+	"1511196346": {
+		"RunFunction": "startRiotM249"
 	}
 }
