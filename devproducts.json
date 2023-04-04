@@ -28,8 +28,5 @@
 		"Category": "XPBoosts",
 		"XPBoostDuration": 1440,
 		"XPBoostMultiplier": 2
-	},
-	"1370642256": {
-		"RunFunction": "startRiot"
 	}
 }
