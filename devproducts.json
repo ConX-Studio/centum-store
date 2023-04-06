@@ -40,5 +40,8 @@
 	},
 	"1511196444": {
 		"RunFunction": "juggernautParty"
+	},
+	"1511196550": {
+		"RunFunction": "biirInfection"
 	}
 }
