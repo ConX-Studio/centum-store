@@ -29,7 +29,19 @@
 		"XPBoostDuration": 1440,
 		"XPBoostMultiplier": 2
 	},
+	"1511196250": {
+		"RunFunction": "startRiotRPK"
+	},
+	"1511196346": {
+		"RunFunction": "startRiotM249"
+	},
 	"1370642256": {
-		"RunFunction": "startRiot"
+		"RunFunction": "startRiotAK74U"
+	},
+	"1511196444": {
+		"RunFunction": "juggernautParty"
+	},
+	"1511196550": {
+		"RunFunction": "biirInfection"
 	}
 }
