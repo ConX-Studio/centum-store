@@ -43,22 +43,17 @@
 	},
 	"1511196550": {
 		"RunFunction": "biirInfection"
-	}
-	
-	
+	},
 	"1529530608": {
-		"RunFunction": "factionRushHour"	
+		"RunFunction": "factionRushHour"
 	},
-	
 	"1529531630": {
-		"RunFunction": "factionAK74URiot"	
+		"RunFunction": "factionAK74URiot"
 	},
-	
 	"1529532368": {
 		"RunFunction": "factionRPKRiot"
 	},
-	
 	"1529532445": {
-		"RunFunction": "factionRPKJuggRiot"	
-	},
+		"RunFunction": "factionRPKJuggRiot"
+	}
 }
