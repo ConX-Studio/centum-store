@@ -55,5 +55,8 @@
 	},
 	"1529532445": {
 		"RunFunction": "factionRPKJuggRiot"
+	},
+	"1547563102": {
+		"RunFunction": "supplyDrop"
 	}
 }
